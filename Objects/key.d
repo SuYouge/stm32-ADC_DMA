@@ -1,0 +1,14 @@
+.\objects\key.o: Driver\key.c
+.\objects\key.o: Driver\key.h
+.\objects\key.o: .\User\stm32f10x.h
+.\objects\key.o: .\Libraries\CMSIS\core_cm3.h
+.\objects\key.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\key.o: .\Libraries\CMSIS\system_stm32f10x.h
+.\objects\key.o: .\User\stm32f10x_conf.h
+.\objects\key.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h
+.\objects\key.o: .\User\stm32f10x.h
+.\objects\key.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h
+.\objects\key.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h
+.\objects\key.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h
+.\objects\key.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h
+.\objects\key.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h

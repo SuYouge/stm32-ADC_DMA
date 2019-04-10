@@ -1,0 +1,14 @@
+.\objects\systick.o: Driver\SysTick.c
+.\objects\systick.o: Driver\SysTick.h
+.\objects\systick.o: .\User\stm32f10x.h
+.\objects\systick.o: .\Libraries\CMSIS\core_cm3.h
+.\objects\systick.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\systick.o: .\Libraries\CMSIS\system_stm32f10x.h
+.\objects\systick.o: .\User\stm32f10x_conf.h
+.\objects\systick.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h
+.\objects\systick.o: .\User\stm32f10x.h
+.\objects\systick.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h
+.\objects\systick.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h
+.\objects\systick.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h
+.\objects\systick.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h
+.\objects\systick.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h

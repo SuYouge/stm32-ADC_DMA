@@ -1,0 +1,12 @@
+.\objects\exti.o: Driver\exti.c
+.\objects\exti.o: Driver\exti.h
+.\objects\exti.o: .\User\stm32f10x.h
+.\objects\exti.o: .\Libraries\CMSIS\core_cm3.h
+.\objects\exti.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\exti.o: .\Libraries\CMSIS\system_stm32f10x.h
+.\objects\exti.o: .\User\stm32f10x_conf.h
+.\objects\exti.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h
+.\objects\exti.o: .\User\stm32f10x.h
+.\objects\exti.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h
+.\objects\exti.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h
+.\objects\exti.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h
